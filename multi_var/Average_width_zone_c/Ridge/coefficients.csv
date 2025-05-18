@@ -1,0 +1,13 @@
+feature,coefficient
+Fractal_dimension_zone_c,1.0622810688295654
+Vessel_density_zone_c,-0.6709424679884136
+Average_width_zone_c,0.766625496065601
+Distance_tortuosity_zone_c,-0.025341126543624935
+Tortuosity_density_zone_c,-4.524197050823513
+Artery_Fractal_dimension_zone_c,-2.670166952317925
+Artery_Distance_tortuosity_zone_c,0.023230467418358682
+Vein_Fractal_dimension_zone_c,-3.7712990516802685
+Vein_Distance_tortuosity_zone_c,0.01051248479719899
+CRAE_Knudtson_zone_c,0.03160229817444342
+CRVE_Knudtson_zone_c,-0.003676729947711607
+AVR_Knudtson_zone_c,-1.1215856731563467
